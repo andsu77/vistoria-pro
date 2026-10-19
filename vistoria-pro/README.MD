@@ -1,5 +1,5 @@
 #Vistoria-Pro
-- o **Vistori-Pro** é um sistema para agilizar e melhorar o desempenho para as vistorias das empresas ela pode substituir papeis como vistorias, imagens desorganizadas por whatsapp, reconhecimento de datas de forma coerente e prática
+- o **Vistoria-Pro** é um sistema para agilizar e melhorar o desempenho para as vistorias das empresas ela pode substituir papeis como vistorias, imagens desorganizadas por whatsapp, reconhecimento de datas de forma coerente e prática
 
 ---
 
